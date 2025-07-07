@@ -1,2 +1,2 @@
-CATALOGUE_HOST: catalogue.backend-{{ env }}.somisettibhavya.life
-REDIS_HOST: redis-{{ env }}.somisettibhavya.life
+CATALOGUE_HOST: catalogue.backend.somisettibhavya.life
+REDIS_HOST: redis.somisettibhavya.life

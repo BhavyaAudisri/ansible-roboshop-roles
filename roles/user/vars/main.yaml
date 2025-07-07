@@ -1,2 +1,2 @@
-REDIS_HOST: redis-{{ env }}.somisettibhavya.life
-MONGODB_HOST: mongodb-{{ env }}.somisettibhavya.life
+REDIS_HOST: redis.somisettibhavya.life
+MONGODB_HOST: mongodb.somisettibhavya.life
