@@ -13,6 +13,6 @@
       tasks_from: go
 
   - name: systemd setup
-  include_role:
+    include_role:
     name: common
     tasks_from: systemd.yaml
